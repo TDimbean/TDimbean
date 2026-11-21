@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TDimbean
 - 👀 I’m interested in games and animation
 - 🌱 I work as a Full-Stack Web dev and make games in my spare time
-- 💞️ I’m looking to collaborate on ASP.NET, Unity and Godot projects
+- 💞️ I’m looking to share ideas with like-minded people
 - 📫 How to reach me tdimbean@gmail.com
 
 <!---
